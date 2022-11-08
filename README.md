@@ -1,5 +1,7 @@
 # 通过graphql来查询链上数据
 
+sub graph请参考 [nft-study-subgraph](https://github.com/mengwp2004/nft-study-subgraph)
+
 ## 1  create project
 npx create-react-app nft-study-react-query
 
