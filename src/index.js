@@ -6,7 +6,6 @@ import reportWebVitals from './reportWebVitals';
 import { ApolloClient, InMemoryCache, ApolloProvider, gql } from '@apollo/client';
 
 const client = new ApolloClient({
-  //uri: 'https://flyby-gateway.herokuapp.com/',
   uri: 'https://api.thegraph.com/subgraphs/name/mengwp2004/nftstudy',
   cache: new InMemoryCache(),
 });
