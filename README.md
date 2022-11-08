@@ -36,11 +36,15 @@ query GetGravatars {
 `;
 
 ```
+## 5 run
+npm start
 
-## 5 reference
+## 6 reference
 
-1 js参考 https://create-react-app.dev/docs/folder-structure
-2 apollo graphql参考: https://www.apollographql.com/docs/react/get-started
+### 1 js参考 
+https://create-react-app.dev/docs/folder-structure
+### 2 apollo graphql参考
+https://www.apollographql.com/docs/react/get-started
 
 
 
